@@ -1,0 +1,4 @@
+interface:
+  display_name: "PocketMine-MP Code Style"
+  short_description: "Repository-specific PocketMine coding guidance"
+  default_prompt: "Use $pocketmine-mp-code-style to implement or review a PocketMine-MP change."
